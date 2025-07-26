@@ -18,11 +18,7 @@ A modern, browser-based Pong game created by **Ntuthuko Maphalala**.
 - When time is up, the winner (or a draw) is announced inside the scoreboard.
 
 ## 🚀 How to Run
-1. **Download or clone this repository.**
-2. Open `index.html` in your web browser (no server required).
-
-## 📸 Screenshot
-> *(Add a screenshot of your game here!)*
+1. play here [Pong](ntuthukomaphalala.github.io/pong).
 
 ## 👨‍💻 About the Author
 Created by **Ntuthuko Maphalala**
